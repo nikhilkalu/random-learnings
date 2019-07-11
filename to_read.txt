@@ -1,0 +1,74 @@
+Fromntend:
+HTML5
+JS:
+    bind
+https://levelup.gitconnected.com/getting-started-with-graphql-its-pretty-easy-3ea803426298
+https://www.w3.org/International/questions/qa-what-is-encoding
+https://guide.freecodecamp.org/javascript/standard-objects/function/function-prototype-bind/
+https://www.freecodecamp.org/news/how-to-implement-promises-in-javascript-1ce2680a7f51/
+https://www.freecodecamp.org/news/async-generators-as-an-alternative-to-state-management/
+https://www.freecodecamp.org/news/how-to-master-async-await-with-this-real-world-example-19107e7558ad/
+https://www.freecodecamp.org/news/deeply-understand-currying-in-7-minutes/
+https://2ality.com/2017/01/shared-array-buffer.html
+https://hackernoon.com/work-with-javascript-arrays-like-a-boss-97207a042e42
+https://hackernoon.com/get-your-head-around-this-73c23653b102
+https://hackernoon.com/how-to-use-javascript-closures-with-confidence-85cd1f841a6b
+https://hackernoon.com/a-quick-handbook-for-dates-in-javascript-7b71d0ef8e53
+https://hackernoon.com/a-definitive-guide-to-javascript-prototypes-2c263788021e
+https://hackernoon.com/implementing-interfaces-in-javascript-with-implement-js-8746838f8caa
+https://hackernoon.com/3-javascript-performance-mistakes-you-should-stop-doing-ebf84b9de951
+https://hackernoon.com/javascript-async-await-the-good-part-pitfalls-and-how-to-use-9b759ca21cda
+https://hackernoon.com/implementing-javascript-promise-in-70-lines-of-code-b3592565af0f
+
+Owasp top ten vunreability
+PWA
+Jasmine testing/Jest
+Chrome devtools
+Webpack
+https://github.com/vasanthk/how-web-works
+https://developers.google.com/web/fundamentals/performance/http2/
+https://developers.google.com/web/fundamentals/
+https://www.freecodecamp.org/news/a-practical-guide-to-learning-front-end-development-for-beginners-da6516505e41/
+https://developers.google.com/web/ilt/pwa/
+
+
+
+
+Backend:
+https://db-engines.com/en/ranking
+https://en.wikipedia.org/wiki/Graph_database
+https://www.coursera.org/lecture/cloud-computing/1-1-why-key-value-nosql-bEZDN
+https://engineering.linkedin.com/distributed-systems/log-what-every-software-engineer-should-know-about-real-time-datas-unifying
+https://dzone.com/articles/building-a-graph-database-on-a-key-value-store
+https://db-engines.com/en/blog_post/81
+https://www.geeksforgeeks.org/dbms/
+
+Relational (MySql)
+Document (Mongo)
+SearchEngine (Elastic, splunk)
+Key-Value(Redis)
+Wide-cloumn (Cassandra)
+Time-series (influx)
+
+https://www.hiredintech.com/classrooms/system-design/lesson/56
+https://www.educative.io/collection/5668639101419520/5649050225344512
+https://github.com/binhnguyennus/awesome-scalability
+https://dzone.com/articles/component-load-testing
+http://highscalability.com/all-time-favorites/
+http://horicky.blogspot.com/
+http://tutorials.jenkov.com/software-architecture/index.html
+http://blog.gainlo.co/
+http://www.palantir.com/2011/10/how-to-rock-a-systems-design-interview/
+https://www.lecloud.net/tagged/scalability
+https://lethain.com/introduction-to-architecting-systems-for-scale/
+http://www.aosabook.org/en/distsys.html
+
+kafka
+
+
+C++:
+https://github.com/isocpp/CppCoreGuidelines/blob/master/CppCoreGuidelines.md#Rc-zero
+https://en.wikipedia.org/wiki/SOLID
+
+
+
